@@ -1,6 +1,7 @@
 # »Interaction Design« Course @CoCo
 
-_Disclaimer: This repo documents a course for the [Code & Context](https://www.th-koeln.de/studium/code--context-bachelor_62103.php) course of study at [TH-Köln](https://www.th-koeln.de/) in the summer term 2024._
+_Disclaimer: This repo documents the Interaction Design course for the [Code & Context](https://www.th-koeln.de/studium/code--context-bachelor_62103.php) Bachelor's program at [TH-Köln](https://www.th-koeln.de/) during the summer term of 2024._
+
 
 <details>
   <summary>View Workshop Description</summary>

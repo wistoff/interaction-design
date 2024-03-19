@@ -4,7 +4,7 @@ _Disclaimer: This repo documents the Interaction Design course for the [Code & C
 
 
 <details>
-  <summary>View Workshop Description</summary>
+  <summary>View Course Description</summary>
 The course "Interaction Design (DF22)" offers an in-depth examination of the principles and methodologies involved in shaping interactions with digital artifacts and processes. It encompasses the study of various interaction paradigms such as GUIs and TUIs, supplemented by an exploration of Interaction Design history and interface materiality. Through practical exercises and projects, participants engage in the experimentation of prototypes and Creative Coding techniques, while critically analyzing established methods within the field. The overarching goal is to provide students with the analytical tools and practical skills necessary for the development of innovative interaction forms and user experiences across interdisciplinary contexts.
 </details>
 

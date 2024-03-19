@@ -2,7 +2,7 @@
 
 ![Thumbnail](./src/thumbnail.jpg)
 
-_Disclaimer: This repo documents the Interaction Design course for the [Code & Context](https://www.th-koeln.de/studium/code--context-bachelor_62103.php) Bachelor's program at [TH-Köln](https://www.th-koeln.de/) during the summer term of 2024._
+_This repo documents the Interaction Design course for the [Code & Context](https://www.th-koeln.de/studium/code--context-bachelor_62103.php) Bachelor's program at [TH-Köln](https://www.th-koeln.de/) during the summer term of 2024._
 
 
 <details>

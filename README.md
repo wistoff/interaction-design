@@ -12,3 +12,42 @@ The course "Interaction Design (DF22)" offers an in-depth examination of the pri
 - [📖Slide 2 – The History of Interaction Design](https://slides.cnrd.computer/iad-coco/2/)
 - [🖱️Slide 3 – Naturalness || Conditioning](https://slides.cnrd.computer/iad-coco/3/)
 
+# Exercises
+## Exercise I: Restricted Relations
+## Exercise II: Unusual Conditions
+## Exercise III: Unusual Relations
+
+
+
+# Project Library
+
+[Blendie - a voice controlled blender](https://youtu.be/6DDkwdPaYmk) (2003) by Kelly Dobson
+[Motor Karaoke (2007)](https://youtu.be/kBnBZLJYwrg) by MEC
+[Overtaxed Surface (2013)](http://www.overtaxedsurface.de/) by Till Maria Jürgens & Vitus Schuhwerk
+[Line Wobbler (2015)](https://www.aipanic.com/projects/wobbler) by Baumgarten et al.
+[Bat Vision (2020)](https://vimeo.com/424791809) by Zihlmann et al.
+
+
+# Course Requirements and Evaluation
+
+## Dokumentation
+Die Dokumentation ist das Kernelement des Kursergebnisses. Sie sollte die Bearbeitung der drei 3 Teilaufgaben als Prozess darstellen. Besondere Wichtigkeit liegt auf den verschiedenen Iterationen und der Begründung von Entscheidungsfindungen. Warum wurden bestimmte Formen der Interaktion anderen Gegenüber bevorzugt? Was war das Spannende, was hat warum funktioniert? Das finale Ergebnis der selbstgewählten Interaktion sollte in der Dokumentation enthalten sein, jedoch nicht den Fokus der Dokumentation einnehmen. Die Darstellung und das Medium (PDF, (interaktive)Website, Videodokumentation, …) ist frei wählbar.
+
+## Präsentation (approx. 15min)
+Die Präsentation hat das Ziel, die selbstdefinierte Aufgabe darzustellen. Sie dient dazu, die Milestones des Prozesses darzustellen. Beantwortet auch hier die „Warum“-Fragen. Warum wurde sich für diese Form der Interaktion entschieden, welche Iterationen gab es, warum wurden bestimmte wieder verworfen? Was kam am Ende dabei raus und was ist an der gewählten Interaktion so spannend? Die Präsentation ist kein Pitch des Endergebnisses!
+
+## Bewertung
+60% Bewertung der Abgabe (Dokumentation)
+- Ausführliche Dokumentation der Teilaufgaben
+- Nachvollziehbarkeit des Prozesses und Begründbarkeit der getroffenen Entscheidungen, in allen 3 Teilaufgaben
+- Qualität der Dokumentation (passend gewähltes Medium, Prozessdarstellungen, Fotos, Texte, …)
+
+30% Bewertung der Präsentation (selbstdefinierte Aufgabe)
+- Interativer Gestaltungsprozess (es wurden **verschiedene** Experimente durchgeführt)
+- Begründbarkeit der getroffenen Entscheidungen
+- Präsentationsweise
+- Konzeptuelle und gestalterische Umsetzung der „selbstgewählten Interaktion“
+
+10% Bewertung des Arbeitsprozess in Einzel & Gruppenarbeit
+- Zwischenpräsentationen
+- konstruktive Diskussionen

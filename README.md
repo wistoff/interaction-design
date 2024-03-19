@@ -1,5 +1,7 @@
 # »Interaction Design« Course @CoCo
 
+![Thumbnail](./src/thumbnail.jpg)
+
 _Disclaimer: This repo documents the Interaction Design course for the [Code & Context](https://www.th-koeln.de/studium/code--context-bachelor_62103.php) Bachelor's program at [TH-Köln](https://www.th-koeln.de/) during the summer term of 2024._
 
 
@@ -14,22 +16,14 @@ The course "Interaction Design (DF22)" offers an in-depth examination of the pri
 - [🖱️ Slide 3 – Naturalness || Conditioning](https://slides.cnrd.computer/iad-coco/3/)
 
 # Exercises
-## Exercise I: Restricted Relations
-## Exercise II: Unusual Conditions
-## Exercise III: Unusual Relations
-
-
-
-# Project Library
-
-- [Blendie - a voice controlled blender](https://youtu.be/6DDkwdPaYmk) (2003) by Kelly Dobson
-- [Motor Karaoke (2007)](https://youtu.be/kBnBZLJYwrg) by MEC
-- [Overtaxed Surface (2013)](http://www.overtaxedsurface.de/) by Till Maria Jürgens & Vitus Schuhwerk
-- [Line Wobbler (2015)](https://www.aipanic.com/projects/wobbler) by Baumgarten et al.
-- [Bat Vision (2020)](https://vimeo.com/424791809) by Zihlmann et al.
-
+- [Exercise I: Restricted Relations](./exercises/Exercise%20I:%20Restricted%20Relations.md)
+- [Exercise II: Unusual Conditions](./exercises/Exercise%20II:%20Unusual%20Conditions.md)
+- [Exercise III: Unusual Relations](./exercises/Exercise%20III:%20Unusual%20Relations.md)
 
 # Course Requirements and Evaluation
+
+<details>
+  <summary>View Course Requirements and Evaluation</summary>
 
 ## Dokumentation
 Die Dokumentation ist das Kernelement des Kursergebnisses. Sie sollte die Bearbeitung der drei 3 Teilaufgaben als Prozess darstellen. Besondere Wichtigkeit liegt auf den verschiedenen Iterationen und der Begründung von Entscheidungsfindungen. Warum wurden bestimmte Formen der Interaktion anderen Gegenüber bevorzugt? Was war das Spannende, was hat warum funktioniert? Das finale Ergebnis der selbstgewählten Interaktion sollte in der Dokumentation enthalten sein, jedoch nicht den Fokus der Dokumentation einnehmen. Die Darstellung und das Medium (PDF, (interaktive)Website, Videodokumentation, …) ist frei wählbar.
@@ -52,3 +46,7 @@ Die Präsentation hat das Ziel, die selbstdefinierte Aufgabe darzustellen. Sie d
 10% Bewertung des Arbeitsprozess in Einzel & Gruppenarbeit
 - Zwischenpräsentationen
 - konstruktive Diskussionen
+</details>
+
+
+

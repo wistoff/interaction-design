@@ -8,9 +8,9 @@ The course "Interaction Design (DF22)" offers an in-depth examination of the pri
 </details>
 
 # Slides
-- [🤗Slide 1 – Welcome to Interaction Design](https://slides.cnrd.computer/iad-coco/1/)
-- [📖Slide 2 – The History of Interaction Design](https://slides.cnrd.computer/iad-coco/2/)
-- [🖱️Slide 3 – Naturalness || Conditioning](https://slides.cnrd.computer/iad-coco/3/)
+- [🤗 Slide 1 – Welcome to Interaction Design](https://slides.cnrd.computer/iad-coco/1/)
+- [📖 Slide 2 – The History of Interaction Design](https://slides.cnrd.computer/iad-coco/2/)
+- [🖱️ Slide 3 – Naturalness || Conditioning](https://slides.cnrd.computer/iad-coco/3/)
 
 # Exercises
 ## Exercise I: Restricted Relations
@@ -21,11 +21,11 @@ The course "Interaction Design (DF22)" offers an in-depth examination of the pri
 
 # Project Library
 
-[Blendie - a voice controlled blender](https://youtu.be/6DDkwdPaYmk) (2003) by Kelly Dobson
-[Motor Karaoke (2007)](https://youtu.be/kBnBZLJYwrg) by MEC
-[Overtaxed Surface (2013)](http://www.overtaxedsurface.de/) by Till Maria Jürgens & Vitus Schuhwerk
-[Line Wobbler (2015)](https://www.aipanic.com/projects/wobbler) by Baumgarten et al.
-[Bat Vision (2020)](https://vimeo.com/424791809) by Zihlmann et al.
+- [Blendie - a voice controlled blender](https://youtu.be/6DDkwdPaYmk) (2003) by Kelly Dobson
+- [Motor Karaoke (2007)](https://youtu.be/kBnBZLJYwrg) by MEC
+- [Overtaxed Surface (2013)](http://www.overtaxedsurface.de/) by Till Maria Jürgens & Vitus Schuhwerk
+- [Line Wobbler (2015)](https://www.aipanic.com/projects/wobbler) by Baumgarten et al.
+- [Bat Vision (2020)](https://vimeo.com/424791809) by Zihlmann et al.
 
 
 # Course Requirements and Evaluation

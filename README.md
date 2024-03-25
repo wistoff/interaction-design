@@ -13,12 +13,26 @@ The course "Interaction Design (DF22)" offers an in-depth examination of the pri
 # Slides
 - [🤗 Slide 1 – Welcome to Interaction Design](https://slides.cnrd.computer/iad-coco/1/)
 - [📖 Slide 2 – The History of Interaction Design](https://slides.cnrd.computer/iad-coco/2/)
-- [🖱️ Slide 3 – Naturalness || Conditioning](https://slides.cnrd.computer/iad-coco/3/)
+- [🔳 Slide 3 – The User and the Square World](https://slides.cnrd.computer/iad-coco/3/)
+- [🖱️ Slide 4 – Naturalness || Conditioning](https://slides.cnrd.computer/iad-coco/3/)
 
 # Exercises
+- [Exercise 0: Evaluate Interactions](./exercises/Exercise%200:%20Evaluate%20Interactions.md)
 - [Exercise I: Restricted Relations](./exercises/Exercise%20I:%20Restricted%20Relations.md)
 - [Exercise II: Unusual Conditions](./exercises/Exercise%20II:%20Unusual%20Conditions.md)
 - [Exercise III: Unusual Relations](./exercises/Exercise%20III:%20Unusual%20Relations.md)
+
+# Timetable
+02.04 Tuesday: Welcome to Interaction Design, The History of Interaction Design, Exercise 0 \
+03.04 Wednesday: Self-learning Day, Exercise 0 \
+04.04 Thursday: Discussing Exercise 0, The User and the Square World, Exercise I \
+05.04 Friday (nur bis 13:00 Uhr): Discussing Exercise I, Naturalness || Conditioning, Exercise II \
+08.04 Monday: Exercise II, Discussing Exercise II \
+09.04 Tuesday: Exercise III \
+10.04 Wednesday: Self-learning day, Group work, Feedback  \
+11.04 Thursday: Exercise III \
+12.04 Friday: Presentations 
+
 
 # Course Requirements and Evaluation
 

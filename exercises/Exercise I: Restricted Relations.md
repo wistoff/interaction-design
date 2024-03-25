@@ -11,7 +11,7 @@ Führet eine Reihe von Experimenten durch, bei denen die LED durch den Knopf/Tou
 Legt ein Ziel/Narrativ für die Interaktion fest: handelt es sich um ein minimalistisches Spiel (Action-Reaction, Timing, Wiederholung von Mustern, Touch the truck), einen Lichtschalter, ein rein ästhetisches Objekt, eine interaktive Kreatur?
 
 Variiert dabei (einige) der folgenden Parameter:
-- die Beziehung zwischen Aktion und Licht (an/aus, wenn gedrückt, gewechselt durch Knopfdruck, verblassen durch Knopfdruck, Helligkeit abhängig von der Berührung, teilweise zufälliges Verhalten, vollständig zufälliges Verhalten, ...)
+- die Beziehung zwischen Aktion und Licht (an/aus, wenn gedrückt, gewechselt durch Knopfdruck, verblassen durch Knopfdruck, Helligkeit abhängig von der Berührung, teilweise zufälliges Verhalten, vollständig zufälliges Verhalten ...)
 - das Timing von Aktion und Reaktion (synchron, verzögert, gemischt – z.B. Einschalten und zeitgesteuertes Ausblenden)
 - welche anderen Parameter gibt es noch?
 
@@ -27,7 +27,7 @@ Perform a number of experiments in which the LED is affected by the button/touch
 Set a goal/narrative for your interaction: is this a minimal game (reaction, timing, pattern repetition, touch the truck), a light switch, a purely aesthetic object, a creature you interact with?
 
 Vary (some of) the following parameters:
-- the relation between action and light (on/off while pressed, switched by action, fade by action, brightness depending on touch, partially random behavior, fully random behavior, ...)
+- the relation between action and light (on/off while pressed, switched by action, fade by action, brightness depending on touch, partially random behavior, fully random behavior ...)
 - the timing of action and reaction (synchronous, delayed, mixed — e.g. switch on and timed fade)
 - what other parameters are there?
 

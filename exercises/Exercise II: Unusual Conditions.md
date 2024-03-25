@@ -1,12 +1,12 @@
 ## Exercise description
 <details>
   <summary>Deutsch</summary>
-Experimentiert mit einer „komplexen“ Input Modality (z. B. Sound, Video, Temperatur, Herzfrequenz, Public API, Machine-Learning-Model, ) und entwerft eine Interaktion, die ein ungewöhnliches Verhalten erfordert, um die LED zu beeinflussen. Achtet wieder auf den Kontext bzw. erschließt eine neue Narrative und erkundet den Parameterraum der möglichen Interaktionen (von Verzögerungen bis zu Trainingsdaten).
+Experimentiert mit einer „komplexen“ Input Modality (z. B. Sound, Video, Temperatur, Herzfrequenz, Public API, Machine-Learning-Model) und entwerft eine Interaktion, die ein ungewöhnliches Verhalten erfordert, um die LED zu beeinflussen. Achtet wieder auf den Kontext bzw. erschließt eine neue Narrative und erkundet den Parameterraum der möglichen Interaktionen (von Verzögerungen bis zu Trainingsdaten).
 </details>
 
 <details>
   <summary>English</summary>
-  Experiment with a "complex" input modality (e.g. sound, video, temperature, heart rate, public API, machine learning model, ) and design an interaction that requires unusual behaviour to influence the LED. Again, pay attention to the context or develop a new narrative and explore the parameter space of possible interactions (from delays to training data).
+  Experiment with a "complex" input modality (e.g. sound, video, temperature, heart rate, public API, machine learning model) and design an interaction that requires unusual behaviour to influence the LED. Again, pay attention to the context or develop a new narrative and explore the parameter space of possible interactions (from delays to training data).
 </details>
 
 

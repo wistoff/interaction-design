@@ -17,7 +17,7 @@ The course "Interaction Design (DF22)" offers an in-depth examination of the pri
 - [🖱️ Slide 4 – Naturalness || Conditioning](https://slides.cnrd.computer/iad-coco/3/)
 
 # Exercises
-- [Research Exercise: Interactive Insights](./exercises/Exercise%200:%20Evaluate%20Interactions.md)
+- [Research Exercise: Interactive Insights](./exercises/Research%20Exercise:%20Interactive%20Insights.md)
 - [Exercise I: Restricted Relations](./exercises/Exercise%20I:%20Restricted%20Relations.md)
 - [Exercise II: Unusual Conditions](./exercises/Exercise%20II:%20Unusual%20Conditions.md)
 - [Exercise III: Unusual Relations](./exercises/Exercise%20III:%20Unusual%20Relations.md)

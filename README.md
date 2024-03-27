@@ -23,15 +23,15 @@ The course "Interaction Design (DF22)" offers an in-depth examination of the pri
 - [Exercise III: Unusual Relations](./exercises/Exercise%20III:%20Unusual%20Relations.md)
 
 # Timetable
-02.04 Tuesday: Welcome to Interaction Design, The History of Interaction Design, Exercise 0 \
-03.04 Wednesday: Self-learning Day, Exercise 0 \
-04.04 Thursday: Discussing Exercise 0, The User and the Square World, Exercise I \
-05.04 Friday (nur bis 13:00 Uhr): Discussing Exercise I, Naturalness || Conditioning, Exercise II \
+02.04 Tuesday: Introduction & History of Interaction Design \
+03.04 Wednesday: Self-learning day, Research Exercise \
+04.04 Thursday: The User and the Square World, Exercise 1 \
+05.04 Friday (nur bis 13:00 Uhr): Naturalness ||Conditioning, Exercise 2 \
 
-08.04 Monday: Exercise II, Discussing Exercise II \
-09.04 Tuesday: Exercise III \
+08.04 Monday: Exercise 2 \
+09.04 Tuesday: Exercise 3 \
 10.04 Wednesday: Self-learning day, Group work, Feedback  \
-11.04 Thursday: Exercise III \
+11.04 Thursday: Exercise 3 \
 12.04 Friday: Presentations 
 
 

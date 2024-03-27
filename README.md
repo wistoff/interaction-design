@@ -7,7 +7,7 @@ _This repo documents the Interaction Design course for the [Code & Context](http
 
 <details>
   <summary>View Course Description</summary>
-The course "Interaction Design (DF22)" offers an in-depth examination of the principles and methodologies involved in shaping interactions with digital artifacts and processes. It encompasses the study of various interaction paradigms such as GUIs and TUIs, supplemented by an exploration of Interaction Design history and interface materiality. Through practical exercises and projects, participants engage in the experimentation of prototypes and Creative Coding techniques, while critically analyzing established methods within the field. The overarching goal is to provide students with the analytical tools and practical skills necessary for the development of innovative interaction forms and user experiences across interdisciplinary contexts.
+The course "Interaction Design (DF22)" offers an in-depth examination of the principles and methodologies involved in shaping interactions with digital artifacts and processes. It encompasses the study of various interaction paradigms such as GUIs and TUIs, supplemented by an exploration of Interaction Design history and interface materiality. Through practical exercises and projects, participants engage in the experimentation of prototypes and Creative Coding techniques, while critically analyzing established methods within the field.
 </details>
 
 # Slides
@@ -17,7 +17,7 @@ The course "Interaction Design (DF22)" offers an in-depth examination of the pri
 - [🖱️ Slide 4 – Naturalness || Conditioning](https://slides.cnrd.computer/iad-coco/3/)
 
 # Exercises
-- [Exercise 0: Evaluate Interactions](./exercises/Exercise%200:%20Evaluate%20Interactions.md)
+- [Research Exercise: Interactive Insights](./exercises/Exercise%200:%20Evaluate%20Interactions.md)
 - [Exercise I: Restricted Relations](./exercises/Exercise%20I:%20Restricted%20Relations.md)
 - [Exercise II: Unusual Conditions](./exercises/Exercise%20II:%20Unusual%20Conditions.md)
 - [Exercise III: Unusual Relations](./exercises/Exercise%20III:%20Unusual%20Relations.md)
@@ -27,6 +27,7 @@ The course "Interaction Design (DF22)" offers an in-depth examination of the pri
 03.04 Wednesday: Self-learning Day, Exercise 0 \
 04.04 Thursday: Discussing Exercise 0, The User and the Square World, Exercise I \
 05.04 Friday (nur bis 13:00 Uhr): Discussing Exercise I, Naturalness || Conditioning, Exercise II \
+
 08.04 Monday: Exercise II, Discussing Exercise II \
 09.04 Tuesday: Exercise III \
 10.04 Wednesday: Self-learning day, Group work, Feedback  \

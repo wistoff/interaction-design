@@ -1,4 +1,4 @@
-# Exercise 0: Research Exercise
+# Exercise 0: Interactive Insights
 
 ## Exercise description
 

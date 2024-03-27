@@ -26,7 +26,7 @@ The course "Interaction Design (DF22)" offers an in-depth examination of the pri
 02.04 Tuesday: Introduction & History of Interaction Design \
 03.04 Wednesday: Self-learning day, Research Exercise \
 04.04 Thursday: The User and the Square World, Exercise 1 \
-05.04 Friday (nur bis 13:00 Uhr): Naturalness || Conditioning, Exercise 2 \
+05.04 Friday (only until 13:00 Uhr): Naturalness || Conditioning, Exercise 2
 
 08.04 Monday: Exercise 2 \
 09.04 Tuesday: Exercise 3 \

@@ -17,6 +17,22 @@
   - Was macht diese Interaktion zu deiner Lieblingsinteraktion? (freie Beantwortung)
   - Welche Definition für den Begriff "Interaction Design" ergibt sich aus der Interaktion?
 
+    <summary>English</summary>
+  What is interaction? What is your favourite interaction with a technological system/object (not necessarily digital!)? Document this interaction by recording it on video. (simple mobile phone video, screencast etc.) Then answer the following questions:
+
+  - How often do you do this interaction? (number day/week/month)
+  - How long does the interaction last? (in seconds)
+  - How reliably does the interaction work? (in percent)
+  - How many sub-steps can the interaction be divided into? (number)
+  - Difficulty of the interaction - cognitive or physical effort (scale: 1 - not difficult at all // 10 very difficult)
+  - How satisfied are you with the interaction? (Scale: 1 - not satisfied at all // 10 very satisfied)
+  - How many players are involved in the interaction (number)
+
+  - What makes this interaction your favourite interaction? (free answer)
+  - What definition of the term "interaction design" results from the interaction?
+
+Translated with DeepL.com (free version)
+
 </details>
 
 <details>

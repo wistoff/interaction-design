@@ -26,7 +26,7 @@
   - How many sub-steps can the interaction be divided into? (number)
   - Difficulty of the interaction - cognitive or physical effort (scale: 1 - not difficult at all // 10 very difficult)
   - How satisfied are you with the interaction? (Scale: 1 - not satisfied at all // 10 very satisfied)
-  - How many players are involved in the interaction (number)
+  - How many subjects are involved in the interaction (number)
 
   - What makes this interaction your favourite interaction? (free answer)
   - What definition of the term "interaction design" results from the interaction?

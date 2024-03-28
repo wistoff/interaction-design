@@ -31,8 +31,6 @@
   - What makes this interaction your favourite interaction? (free answer)
   - What definition of the term "interaction design" results from the interaction?
 
-Translated with DeepL.com (free version)
-
 </details>
 
 <details>

@@ -11,10 +11,10 @@ The course "Interaction Design (DF22)" offers an in-depth examination of the pri
 </details>
 
 # Slides
-- [🤗 Slide 1 – Welcome to Interaction Design](https://slides.cnrd.computer/iad-coco/1/)
-- [📖 Slide 2 – The History of Interaction Design](https://slides.cnrd.computer/iad-coco/2/)
-- [🔳 Slide 3 – The User and the Square World](https://slides.cnrd.computer/iad-coco/3/)
-- [🖱️ Slide 4 – Naturalness || Conditioning](https://slides.cnrd.computer/iad-coco/4/)
+- [🤗 Slide 1 – Welcome to Interaction Design](https://slides.cnrd.computer/iad/1/)
+- [📖 Slide 2 – The History of Interaction Design](https://slides.cnrd.computer/iad/2/)
+- [🔳 Slide 3 – The User and the Square World](https://slides.cnrd.computer/iad/3/)
+- [🖱️ Slide 4 – Naturalness || Conditioning](https://slides.cnrd.computer/iad/4/)
 
 # Exercises
 - [Research Exercise: Interactive Insights](./exercises/Research%20Exercise:%20Interactive%20Insights.md)

@@ -11,7 +11,7 @@
       </div>
       <div v-for="p in percents">
         <p class="text-sm uppercase">{{ p.description }}</p>
-        <input :value="p.value" min="0" max="100" type="range" />
+        <input :value="p.value" min="0" max="100" type="range" disabled />
       </div>
     </div>
     <div class="w-1/3 flex flex-col gap-4">

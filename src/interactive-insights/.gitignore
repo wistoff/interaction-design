@@ -1,5 +1,4 @@
 server/insights/*.json
-assets/*.woff
 
 # Nuxt dev/build outputs
 .output

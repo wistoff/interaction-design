@@ -18,9 +18,10 @@ What is interaction? Observe yourself and how you interact with technology in yo
 To formalize these questions, everyone will prepare a `.json` file for their captured interaction. Please use a file hoster of your choice (e.g. imgur) to upload your video and make sure the url ends with `.mp4`. The `metrics` array lists the answers with their respective `description` and `unit` -- feel free to add two additional metrics. Based on the captured interactions we will create an archive website that shows an comparative overview your interactive insights.
 
 <details>
-  <summary>German</summary>
+  <summary>German Translation</summary>
   Was ist Interaktion? Beobachtet euch selbst und wie ihr im Alltag mit Technologie interagiert. Was ist eine spezifische Interaktion mit einem technologischen System/Objekt (nicht unbedingt digital), die euch besonders auffällt? Das kann eure Lieblingsinteraktion sein (gibt es so etwas?), ein wiederkehrender UI Bug oder euer meistgenutzter usability hack. Dokumentiert diese Interaktion, indem ihr sie auf Video aufnehmt (Handyvideo oder Screencast). Beantwortet dann die folgenden Fragen: 
   
+  ```md
   - Wie oft macht ihr diese Interaktion?
   - Wie lange dauert die Interaktion?
   - Wie zuverlässig funktioniert das Zusammenspiel?
@@ -31,10 +32,12 @@ To formalize these questions, everyone will prepare a `.json` file for their cap
   
   - Was macht diese Interaktion für euch so offensichtlich?
   - Welche Definition des Begriffs "Interaktionsdesign" ergibt sich aus der Interaktion?
+  ```
 
   Um diese Fragen zu formalisieren, werdet ihr individuell eine `.json` Datei für eure aufgenommene Interaktion vorbereiten. Bitte verwendet einen Filehoster eurer Wahl (z.B. imgur), um euer Video hochzuladen und stellt sicher, dass die URL mit `.mp4` endet. Das Array `metrics` listet die Antworten mit der jeweiligen `description` und `unit` auf -- gerne könnt ihr zwei weitere Metriken hinzufügen. Auf der Grundlage der erfassten Interaktionen erstellen wir eine Archiv website, die einen vergleichenden Überblick über eure interactive insights zeigt.
 </details>
 
+### cnrd.json
 ```json
 {
   "from": "cnrd",

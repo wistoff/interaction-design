@@ -11,10 +11,10 @@ _This repo documents the Interaction Design course for the [Code & Context](http
 </details>
 
 # Slides
-- [🤗 Welcome to Interaction Design](https://slides.cnrd.computer/iad/1/)
-- [📖 History of Interaction Design](https://slides.cnrd.computer/iad/2/)
-- [🔳 The User and the Square World](https://slides.cnrd.computer/iad/3/)
-- [🖱️ Naturalness || Conditioning](https://slides.cnrd.computer/iad/4/)
+- 🤗 [Welcome to Interaction Design](https://slides.cnrd.computer/iad/1/)
+- 📖 [History of Interaction Design](https://slides.cnrd.computer/iad/2/)
+- 🔳 [The User and the Square World](https://slides.cnrd.computer/iad/3/)
+- 🖱️ [Naturalness || Conditioning](https://slides.cnrd.computer/iad/4/)
 
 # Exercises
 - [Research Exercise: Interactive Insights](./exercises/Research%20Exercise:%20Interactive%20Insights.md)

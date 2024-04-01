@@ -2,16 +2,16 @@
 
 What is interaction? Observe yourself and how you interact with technology in your everday life. What is a specific interaction with a technological system/object (not necessarily digital), which is especially apparent to you? This can be your favorite interaction (is there something like that?), a reoccuring UI bug or your most used usability hack. Document this interaction by recording it on video (phone video or screencast). Then answer the following questions:
 
-- How often do you do this interaction?
-- How long does the interaction last?
-- How reliably does the interaction work?
-- How many sub-steps can the interaction be divided into?
-- How difficulty is the interaction?
-- How satisfied are you with the interaction?
-- How many subjects are involved in the interaction?
+- [ ] How often do you do this interaction?
+- [ ] How long does the interaction last?
+- [ ] How reliably does the interaction work?
+- [ ] How many sub-steps can the interaction be divided into?
+- [ ] How difficulty is the interaction?
+- [ ] How satisfied are you with the interaction?
+- [ ] How many subjects are involved in the interaction?
 
-- What makes this interaction so apparent to you?
-- What definition of the term "interaction design" results from the interaction?
+- [ ] What makes this interaction so apparent to you?
+- [ ] What definition of the term "interaction design" results from the interaction?
 
 To formalize these questions, everyone will prepare a `.json` file for their captured interaction. Please use a file hoster of your choice (e.g. imgur) to upload your video and make sure the url ends with `.mp4`. The `metrics` array lists the answers with their respective `description` and `unit` -- feel free to add two additional metrics. Based on the captured interactions we will create an archive website that shows an comparative overview your interactive insights.
 

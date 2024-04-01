@@ -1,43 +1,36 @@
 # Exercise 1: Restricted Relations
 
-
-## Exercise description
-<details>
-  <summary>Deutsch</summary>
-Schließt einen Taster und eine LED an den ESP an, verbindet ein Kabel mit einem Touch-GPIO des Mikrocontrollers.
-
-Führet eine Reihe von Experimenten durch, bei denen die LED durch den Knopf/Touch-GPIO beeinflusst wird:
-
-Legt ein Ziel/Narrativ für die Interaktion fest: handelt es sich um ein minimalistisches Spiel (Action-Reaction, Timing, Wiederholung von Mustern, Touch the truck), einen Lichtschalter, ein rein ästhetisches Objekt, eine interaktive Kreatur?
-
-Variiert dabei (einige) der folgenden Parameter:
-- die Beziehung zwischen Aktion und Licht (an/aus, wenn gedrückt, gewechselt durch Knopfdruck, verblassen durch Knopfdruck, Helligkeit abhängig von der Berührung, teilweise zufälliges Verhalten, vollständig zufälliges Verhalten ...)
-- das Timing von Aktion und Reaktion (synchron, verzögert, gemischt – z.B. Einschalten und zeitgesteuertes Ausblenden)
-- welche anderen Parameter gibt es noch?
-
-Probiert diese Interaktionen zusammen aus und beobachtet, wie sich die jeweilige Interaktion je nach den gewählten Parametern unterschiedlich anfühlt. Dokumentiert die Ergebnisse und entscheidet, welche Variante am besten zu dem gewählten Ziel/Narrativ passt. Der Schwerpunkt sollte auf dem Prozess und nicht auf dem Ziel liegen.
-</details>
-
-<details>
-  <summary>English</summary>
-Connect a button, a microcontroller and an LED, connect a cable to a touch-GPIO of the microcontroller (you may also connect the cable to some aluminum foil).
-
-Perform a number of experiments in which the LED is affected by the button/touch sensor:
+Connect a button, a microcontroller and an LED, connect a cable to a touch-GPIO of the microcontroller (you may also connect the cable to some aluminum foil). Perform a number of experiments in which the LED is affected by the button/touch sensor:
 
 Set a goal/narrative for your interaction: is this a minimal game (reaction, timing, pattern repetition, touch the truck), a light switch, a purely aesthetic object, a creature you interact with?
 
 Vary (some of) the following parameters:
+```md
 - the relation between action and light (on/off while pressed, switched by action, fade by action, brightness depending on touch, partially random behavior, fully random behavior ...)
 - the timing of action and reaction (synchronous, delayed, mixed — e.g. switch on and timed fade)
 - what other parameters are there?
+```
 
 Try these interactions together and observe how the interaction feels differently depending on these choices. Document the results and decide which one is the best overall fit for your goal. The focus should be on the process and not the goal.
+
+<details>
+  <summary>Deutsch</summary>
+Schließt einen Taster und eine LED an den ESP an, verbindet ein Kabel mit einem Touch-GPIO des Mikrocontrollers. Führet eine Reihe von Experimenten durch, bei denen die LED durch den Knopf/Touch-GPIO beeinflusst wird:
+
+Legt ein Ziel/Narrativ für die Interaktion fest: handelt es sich um ein minimalistisches Spiel (Action-Reaction, Timing, Wiederholung von Mustern, Touch the truck), einen Lichtschalter, ein rein ästhetisches Objekt, eine interaktive Kreatur?
+
+Variiert dabei (einige) der folgenden Parameter:
+```md
+- die Beziehung zwischen Aktion und Licht (an/aus, wenn gedrückt, gewechselt durch Knopfdruck, verblassen durch Knopfdruck, Helligkeit abhängig von der Berührung, teilweise zufälliges Verhalten, vollständig zufälliges Verhalten ...)
+- das Timing von Aktion und Reaktion (synchron, verzögert, gemischt – z.B. Einschalten und zeitgesteuertes Ausblenden)
+- welche anderen Parameter gibt es noch?
+```
+
+Probiert diese Interaktionen zusammen aus und beobachtet, wie sich die jeweilige Interaktion je nach den gewählten Parametern unterschiedlich anfühlt. Dokumentiert die Ergebnisse und entscheidet, welche Variante am besten zu dem gewählten Ziel/Narrativ passt. Der Schwerpunkt sollte auf dem Prozess und nicht auf dem Ziel liegen.
 </details>
 
-
-## Code
-### Light on while button pressed:
-```
+### Light on while button pressed
+```c
 const int ledPin = 5;
 const int buttonPin = 4; // built-in is 0
 
@@ -52,8 +45,8 @@ void loop() {
 }
 ```
 
-### Light on while touch (via threshold):
-```
+### Light on while touch (via threshold)
+```c
 const int ledPin = 5;
 const int touchPin = 2;
 const int threshold = 50;
@@ -75,8 +68,8 @@ void loop() {
 }
 ```
 
-### Button as switch:
-```
+### Button as switch
+```c
 const int ledPin = 5;
 const int buttonPin = 4; // 0 for built-in button
 
@@ -108,9 +101,8 @@ void loop() {
 }
 ```
 
-### Button switches fading LED:
-
-```
+### Button switches fading LED
+```c
 const int ledPin = 5;
 const int buttonPin = 4;  // 0 for built-in button
 
@@ -165,9 +157,8 @@ void loop() {
 }
 ```
 
-### Touching as brightness:
-
-```
+### Touching as brightness
+```c
 #define LEDC_CHANNEL_0 0
 #define LEDC_TIMER_13_BIT 13
 #define LEDC_BASE_FREQ 5000
@@ -200,10 +191,3 @@ void loop() {
   delay(25);
 }
 ```
-
-
-
-
-
-
-

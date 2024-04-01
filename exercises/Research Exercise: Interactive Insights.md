@@ -37,7 +37,7 @@ To formalize these questions, everyone will prepare a `.json` file for their cap
   Um diese Fragen zu formalisieren, werdet ihr individuell eine `.json` Datei für eure aufgenommene Interaktion vorbereiten. Bitte verwendet einen Filehoster eurer Wahl (z.B. imgur), um euer Video hochzuladen und stellt sicher, dass die URL mit `.mp4` endet. Das Array `metrics` listet die Antworten mit der jeweiligen `description` und `unit` auf -- gerne könnt ihr zwei weitere Metriken hinzufügen. Auf der Grundlage der erfassten Interaktionen erstellen wir eine Archiv website, die einen vergleichenden Überblick über eure interactive insights zeigt.
 </details>
 
-### cnrd.json
+### example.json
 ```json
 {
   "from": "cnrd",

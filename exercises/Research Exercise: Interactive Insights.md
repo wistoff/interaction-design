@@ -20,7 +20,7 @@ To formalize these questions, everyone will prepare a `.json` file for their cap
 <details>
   <summary>German Translation</summary>
   Was ist Interaktion? Beobachtet euch selbst und wie ihr im Alltag mit Technologie interagiert. Was ist eine spezifische Interaktion mit einem technologischen System/Objekt (nicht unbedingt digital), die euch besonders auffällt? Das kann eure Lieblingsinteraktion sein (gibt es so etwas?), ein wiederkehrender UI Bug oder euer meistgenutzter usability hack. Dokumentiert diese Interaktion, indem ihr sie auf Video aufnehmt (Handyvideo oder Screencast). Beantwortet dann die folgenden Fragen: 
-  
+
   ```md
   - Wie oft macht ihr diese Interaktion?
   - Wie lange dauert die Interaktion?

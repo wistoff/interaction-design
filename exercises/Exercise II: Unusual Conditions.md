@@ -1,14 +1,11 @@
-## Exercise description
-<details>
-  <summary>Deutsch</summary>
-Experimentiert mit einer „komplexen“ Input Modality (z. B. Sound, Video, Temperatur, Herzfrequenz, Public API, Machine-Learning-Model) und entwerft eine Interaktion, die ein ungewöhnliches Verhalten erfordert, um die LED zu beeinflussen. Achtet wieder auf den Kontext bzw. erschließt eine neue Narrative und erkundet den Parameterraum der möglichen Interaktionen (von Verzögerungen bis zu Trainingsdaten).
-</details>
+# Exercise II: Unusual Conditions
+
+Experiment with a "complex" input modality (e.g. sound, video, temperature, heart rate, public API, machine learning model) and design an interaction that requires unusual behaviour to influence the LED. Again, pay attention to the context or develop a new narrative and explore the parameter space of possible interactions (from delays to training data).
 
 <details>
-  <summary>English</summary>
-  Experiment with a "complex" input modality (e.g. sound, video, temperature, heart rate, public API, machine learning model) and design an interaction that requires unusual behaviour to influence the LED. Again, pay attention to the context or develop a new narrative and explore the parameter space of possible interactions (from delays to training data).
+  <summary>German Translation</summary>
+  Experimentiert mit einer „komplexen“ Input Modality (z. B. Sound, Video, Temperatur, Herzfrequenz, Public API, Machine-Learning-Model) und entwerft eine Interaktion, die ein ungewöhnliches Verhalten erfordert, um die LED zu beeinflussen. Achtet wieder auf den Kontext bzw. erschließt eine neue Narrative und erkundet den Parameterraum der möglichen Interaktionen (von Verzögerungen bis zu Trainingsdaten).
 </details>
-
 
 ## Examples:
 - [Blendie – a voice controlled blender (2003)](https://youtu.be/6DDkwdPaYmk) by Kelly Dobson
@@ -28,7 +25,7 @@ e.g. Heartbeat Sensor, Magnet Sensor, Pressure Sensor ...
 Zum Beispiel in Processing (Examples/… /[AudioInput](https://github.com/processing/processing-sound/blob/master/examples/IO/AudioInput/AudioInput.pde) plus etwas [Serial](https://processing.org/reference/libraries/serial/Serial.html)):
 
 #### Processing
-```
+```c
 import processing.serial.*;
 import processing.sound.*;
 
@@ -65,7 +62,7 @@ void draw() {
 ```
 
 #### Arduino 
-```
+```c
 const int ledPin = 5;
 
 void setup() {
@@ -92,7 +89,7 @@ Machine Learning mit [p5js](https://p5js.org/) und [ml5js](https://ml5js.org/) (
 Training via [https://teachablemachine.withgoogle.com/train/audio](https://teachablemachine.withgoogle.com/train/audio)
 
 Model exportieren und dann Ausführen via p5js/ml5js, z.B. im Web-Editor (und mit [Code von Daniel Shiffman](https://thecodingtrain.com/tracks/teachable-machine/teachable-machine/3-sound-classification) plus [p5.serialserver](https://github.com/p5-serial/p5.serialserver) and [p5.serialport](https://github.com/p5-serial/p5.serialport)):
-```
+```javascript
 // ...
 let emoji = "?";
 // Pick an emoji based on label

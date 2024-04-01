@@ -1,4 +1,4 @@
-# Exercise 1: Restricted Relations
+# Exercise I: Restricted Relations
 
 Connect a button, a microcontroller and an LED, connect a cable to a touch-GPIO of the microcontroller (you may also connect the cable to some aluminum foil). Perform a number of experiments in which the LED is affected by the button/touch sensor:
 

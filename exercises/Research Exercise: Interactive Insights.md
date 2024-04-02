@@ -9,7 +9,7 @@ What is interaction? Observe yourself and how you interact with technology in yo
 - How many sub-steps can the interaction be divided into?
 - How difficulty is the interaction?
 - How satisfied are you with the interaction?
-- How many subjects are involved in the interaction?
+- How many actors are involved in the interaction?
 - ...
 
 - What makes this interaction so apparent to you?

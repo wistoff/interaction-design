@@ -1,6 +1,6 @@
 # Exercise III: Unusual Relations
 
-The last task is to design a self-defined interaction. This time you choose your own groups (3-4 people). Define the input and output independently and experiment with the design. The previous restrictions no longer apply and you have the opportunity to bring together the experience gained from the previous tasks. If you liked a narrative or interaction from the previous tasks, you can pick it up again. The aim is to create a functional prototype that requires an unusual interaction and serves a suitable narrative. What it should not be: a product for sale, a marketing concept or a project idea to be pitched.
+The last task is to design a self-defined interaction. This time you choose your own groups (3-4 people). Define the input and output independently and experiment with the design. The previous restrictions no longer apply and you have the opportunity to bring together the experience gained from the previous tasks. If you liked a narrative or interaction from the previous tasks, you can pick it up again. The aim is to create a functional prototype that requires an unusual interaction and serves a suitable narrative: questioning standards and depicting the limits of naturalness. What it should not be: a product for sale, a marketing concept or a project idea to be pitched.
 
 Document the process and prepare a presentation to show your results. Consider the justifiability of your decisions in the process and include them in the presentation and documentation.
 

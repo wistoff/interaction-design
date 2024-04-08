@@ -55,7 +55,7 @@ _This repo documents the Interaction Design course for the [Code & Context](http
   - Qualität der Dokumentation (passend gewähltes Medium, Prozessdarstellungen, Fotos, Texte, ...)
 
   30% Bewertung der Präsentation (selbstdefinierte Aufgabe)
-  - Interativer Gestaltungsprozess (es wurden _verschiedene_ Experimente durchgeführt)
+  - Iterativer Gestaltungsprozess (es wurden _verschiedene_ Experimente durchgeführt)
   - Begründbarkeit der getroffenen Entscheidungen
   - Präsentationsweise
   - Konzeptuelle und gestalterische Umsetzung der „selbstgewählten Interaktion“

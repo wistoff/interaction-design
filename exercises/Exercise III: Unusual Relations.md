@@ -11,8 +11,8 @@ Document the process and prepare a presentation to show your results. Consider t
   Dokumentiert den Prozess und bereitet eine Präsentation vor, um eure Ergebnisse zu zeigen. Bedenkt die Begründbarkeit eurer Entscheidungen im Prozess und lasst diese in Präsentation und Dokumentation einfließen.
 </details>
 
-### Examples
-[Overtaxed Surface (2013)](http://www.overtaxedsurface.de/) by Till Maria Jürgens & Vitus Schuhwerk
-[Zerseher (1992)](http://www.joachimsauter.com/en/work/zerseher.html) by Joachim Sauter
-[LAUREN (2017)](https://lauren-mccarthy.com/LAUREN) by Lauren Lee McCarthy
+## Examples
+- [Overtaxed Surface (2013)](http://www.overtaxedsurface.de/) by Till Maria Jürgens & Vitus Schuhwerk
+- [Zerseher (1992)](http://www.joachimsauter.com/en/work/zerseher.html) by Joachim Sauter
+- [LAUREN (2017)](https://lauren-mccarthy.com/LAUREN) by Lauren Lee McCarthy
 

@@ -7,7 +7,7 @@ Experiment with a "complex" input modality (e.g. sound, video, temperature, hear
   Experimentiert mit einer „komplexen“ Input Modality (z. B. Sound, Video, Temperatur, Herzfrequenz, Public API, Machine-Learning-Model) und entwerft eine Interaktion, die ein ungewöhnliches Verhalten erfordert, um die LED zu beeinflussen. Achtet wieder auf den Kontext bzw. erschließt eine neue Narrative und erkundet den Parameterraum der möglichen Interaktionen (von Verzögerungen bis zu Trainingsdaten).
 </details>
 
-## Examples:
+## Examples
 - [Motor Karaoke (2007)](https://youtu.be/kBnBZLJYwrg) by MEC
 - [Bat Vision (2020)](https://vimeo.com/424791809) by Zihlmann et al.
 - [Line Wobbler (2015)](https://www.aipanic.com/projects/wobbler) by Baumgarten et al.

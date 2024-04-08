@@ -8,10 +8,10 @@ Experiment with a "complex" input modality (e.g. sound, video, temperature, hear
 </details>
 
 ## Examples:
-- [Blendie – a voice controlled blender (2003)](https://youtu.be/6DDkwdPaYmk) by Kelly Dobson
 - [Motor Karaoke (2007)](https://youtu.be/kBnBZLJYwrg) by MEC
 - [Bat Vision (2020)](https://vimeo.com/424791809) by Zihlmann et al.
 - [Line Wobbler (2015)](https://www.aipanic.com/projects/wobbler) by Baumgarten et al.
+- [5V (2017)](https://arambartholl.com/de/5v/) by Aram Bartholl
 
 
 ## Code
